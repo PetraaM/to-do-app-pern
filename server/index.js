@@ -1,5 +1,8 @@
 const express = require("express");
 const cors = require("cors");
+
+require("dotenv").config();
+
 /*
 These lines import the route handlers for todo-related endpoints and authentication-related endpoints respectively. These handlers are defined in 
 separate files (todo.routes.js and auth.routes.js).

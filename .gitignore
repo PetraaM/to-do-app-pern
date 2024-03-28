@@ -1,13 +1,13 @@
 node_modules
 
 node_modules/line
-/client/.env
+.env
 
-server/creds.json
+
 
 /.pnp
 .pnp.js
-/.env
+
 /coverage
 
 /build
