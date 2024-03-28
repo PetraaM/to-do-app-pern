@@ -1,9 +1,6 @@
 {
   "name": "pern-todo-app-with-authentication",
   "version": "1.0.0",
-  "engines": {
-    "node": "14.x"
-  },
   "scripts": {
     "client": "cd client && npm start",
     "server": "cd server && npm start"
